@@ -1,1 +1,1 @@
-# luxe-fitness-lounge
+# luxe-fitness-gym
